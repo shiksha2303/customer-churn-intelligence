@@ -1,0 +1,4 @@
+Indicator,Exposed (flag=1) n,Exposed churn %,Unexposed churn %,Relative Risk,Wilson CI (exposed)
+Inactivity (0 sessions in 30d),13,92.3%,13.4%,6.88x,"[66.7%, 98.6%]"
+Open support ticket in 30d,28,0.0%,14.0%,0.00x,"[0.0%, 12.1%]"
+No collaboration use (30d),389,28.0%,10.9%,2.57x,"[23.8%, 32.7%]"

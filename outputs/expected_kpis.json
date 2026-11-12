@@ -1,0 +1,70 @@
+{
+  "dataset_summary": {
+    "total_customers": 30000,
+    "active_customers_latest": 13020,
+    "churned_customers_total": 16975,
+    "cumulative_ever_churned_share_pct": 56.58,
+    "observation_window_months": 24,
+    "latest_full_month": "2025-12-01"
+  },
+  "headline_monthly_churn": {
+    "latest_total_churn_rate_pct": 6.31,
+    "latest_voluntary_churn_rate_pct": 5.1,
+    "latest_involuntary_churn_rate_pct": 1.21,
+    "baseline_mean_total_churn_pct": 6.67,
+    "baseline_mean_voluntary_churn_pct": 5.52,
+    "outage_peak_month": "2025-10-01",
+    "outage_peak_total_churn_pct": 12.45,
+    "outage_peak_voluntary_churn_pct": 11.18
+  },
+  "person_time_hazard_per_customer_month": {
+    "overall_monthly_billing_pct": 7.86,
+    "overall_annual_billing_pct": 6.07,
+    "tenure_0_to_3_months_pct": 46.61,
+    "tenure_4_to_6_months_pct": 14.0,
+    "tenure_7_to_12_months_pct": 6.05,
+    "tenure_13_plus_months_pct": 2.17,
+    "plan_starter_pct": 7.35,
+    "plan_growth_pct": 7.41,
+    "plan_scale_pct": 7.39
+  },
+  "revenue_at_risk_measures": {
+    "total_active_mrr_inr": 15903978.51,
+    "scale_plan_active_mrr_inr": 6553481.22,
+    "scale_plan_mrr_share_pct": 41.21,
+    "growth_plan_active_mrr_inr": 5999537.64,
+    "starter_plan_active_mrr_inr": 3350959.65,
+    "realized_churned_mrr_cumulative_inr": 21003006.85,
+    "realized_churned_mrr_peak_oct2025_inr": 2291426.33,
+    "realized_churned_mrr_latest_dec2025_inr": 1089780.22,
+    "exposed_mrr_instrumented_cohort_inr": 520212.02,
+    "exposed_mrr_scaled_total_active_inr": 2860000.0,
+    "expected_mrr_at_risk_estimate_inr": 411711.58,
+    "expected_mrr_at_risk_wilson_lower_inr": 391611.98,
+    "expected_mrr_at_risk_wilson_upper_inr": 432157.75
+  },
+  "out_of_time_risk_tier_validation_2025": {
+    "low_tier_churn_pct": 12.41,
+    "low_tier_wilson_ci": [
+      11.94,
+      12.9
+    ],
+    "medium_tier_churn_pct": 22.28,
+    "medium_tier_wilson_ci": [
+      20.95,
+      23.67
+    ],
+    "high_tier_churn_pct": 68.46,
+    "high_tier_wilson_ci": [
+      60.04,
+      75.82
+    ],
+    "critical_tier_churn_pct": 100.0,
+    "critical_tier_wilson_ci": [
+      20.65,
+      100.0
+    ],
+    "inactivity_relative_risk": 6.37,
+    "collaboration_relative_risk_moat": 1.99
+  }
+}
