@@ -1,0 +1,72 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.spec
+MANIFEST
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ── SQLite database (regenerate via run_pipeline.py if needed) ────────────────
+# Commit only if < 25 MB; comment out this line if it qualifies
+db/churn.db
+
+# ── Large data files (commit generator + small sample only) ──────────────────
+data/raw/*.csv
+data/staging/*.csv
+data/clean/*.csv
+data/exports/*.csv
+# Exceptions: sample files are committed
+!data/raw/sample_*.csv
+
+# ── OS artefacts ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+
+# ── Secrets / credentials ─────────────────────────────────────────────────────
+.env
+*.pem
+*.key
+secrets.json
+
+# ── Ground truth (DO NOT OPEN until Stage 6) ─────────────────────────────────
+# NOT gitignored — intentionally committed so the reviewer can verify realism
+# after Stage 6. Do not read before forming your own conclusions.
+
+# ── pytest cache ──────────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/

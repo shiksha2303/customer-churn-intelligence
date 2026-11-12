@@ -1,0 +1,33 @@
+# Customer Churn Intelligence — Python Dependencies
+# Pin versions for reproducibility. Install with:
+#   pip install -r requirements.txt
+# Tested on Python 3.10+
+
+# ── Core data manipulation ────────────────────────────────────────────────────
+pandas==2.2.2
+numpy==1.26.4
+
+# ── Visualisation ─────────────────────────────────────────────────────────────
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# ── Statistics ────────────────────────────────────────────────────────────────
+scipy==1.13.1
+# statsmodels added only if genuinely required in Stage 5; left out for now
+
+# ── Notebook environment ──────────────────────────────────────────────────────
+jupyter==1.0.0
+nbformat==5.10.4
+nbconvert==7.16.4
+
+# ── Database (stdlib sqlite3 used; sqlite-utils for CLI convenience) ──────────
+sqlite-utils==3.36
+
+# ── Testing ───────────────────────────────────────────────────────────────────
+pytest==8.2.2
+pytest-cov==5.0.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dateutil==2.9.0
+tqdm==4.66.4         # progress bars in generator script
+openpyxl==3.1.4      # optional Excel export for playbook
