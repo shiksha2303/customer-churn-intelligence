@@ -1,0 +1,34 @@
+{
+  "injected_issues": [
+    {
+      "table": "customers",
+      "issue_type": "duplicates",
+      "description": "About 0.5% of customer rows are duplicated exactly."
+    },
+    {
+      "table": "customers",
+      "issue_type": "inconsistent_categories",
+      "description": "The 'city' column contains inconsistent casing and spelling for major cities (e.g., 'Mumbai', 'mumbai', 'MUMBAI', 'Bombay')."
+    },
+    {
+      "table": "customers",
+      "issue_type": "missing_values",
+      "description": "About 2% of customers are missing the 'acquisition_channel'."
+    },
+    {
+      "table": "subscriptions",
+      "issue_type": "logic_error",
+      "description": "A handful of subscriptions have an 'end_date' that is before the 'start_date'."
+    },
+    {
+      "table": "usage_daily",
+      "issue_type": "impossible_values",
+      "description": "A very small number of usage rows have negative 'session_minutes'."
+    },
+    {
+      "table": "payments",
+      "issue_type": "orphan_records",
+      "description": "About 100 payment records reference a customer_id that does not exist in the customers table."
+    }
+  ]
+}
