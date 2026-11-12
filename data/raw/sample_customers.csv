@@ -1,0 +1,101 @@
+customer_id,signup_date,acquisition_channel,city,city_tier,company_size_band
+09e7e1f3-6aad-41a5-8001-c7229bff167f,2025-10-16,Organic Search,Delhi,Tier 1,11-50
+74556e39-4bfa-4530-aa31-d25437913a59,2024-01-26,Referral,Chennai,Tier 1,2-10
+957658ac-6f9d-488b-a4cc-c68385ba9835,2024-09-07,Organic Search,HYDERABAD,Tier 1,Solo
+8fdf3b37-06bf-428c-a66c-888a87da535d,2024-05-22,Organic Search,Delhi,Tier 1,11-50
+35a8a223-e08c-4a93-a436-7c4914adeb36,2025-11-23,Paid Social,Jaipur,Tier 2,2-10
+0b0b1245-12a5-4d0f-b71a-0040b85d1f27,2024-03-30,Organic Search,Lucknow,Tier 2,11-50
+cee19096-a533-4567-9730-f5185ab60720,2025-03-08,App Store,Mumbai,Tier 1,Solo
+1b2fd07e-5c4c-44c0-a130-3eca8f1eff17,2024-01-31,Organic Search,Delhi,Tier 1,Solo
+34533369-5ef0-4e7b-a9fa-2cf0114e000f,2024-08-11,Organic Search,Hyderabad,Tier 1,2-10
+dc238584-aecf-4a3b-a3e9-a5a83e36df76,2025-06-01,Paid Social,Lucknow,Tier 2,Solo
+590a13e0-c32a-4551-922c-d2fd2c38ff69,2024-01-28,Paid Social,Jaipur,Tier 2,Solo
+3d5704e6-401c-45e9-9b29-a4e5e5dd29e2,2024-07-22,Organic Search,Jaipur,Tier 2,Solo
+454b3f1e-5ddd-45f8-a545-41eda7bb1a92,2025-03-05,Paid Social,Hyderabad,Tier 1,2-10
+cc4d9b58-167c-47ae-b128-da0b0883e8bc,2025-04-04,Organic Search,Lucknow,Tier 2,2-10
+d37a709d-ce88-4e00-b230-6cb399a5c02f,2024-10-11,Paid Social,Mumbai,Tier 1,Solo
+fe8e0c9f-5999-4f4d-b15b-f1978a82f8b6,2024-06-12,Paid Social,kolkata,Tier 1,Solo
+560bdb30-8fc4-4397-87cb-f4b5021fc810,2024-12-14,Organic Search,CHENNAI,Tier 1,11-50
+cf60dea2-3402-4d7e-a522-5d3e62737e84,2024-06-08,Campus/Partnership,Hyderabad,Tier 1,2-10
+418bf787-a408-41c3-acea-491ef3c29f86,2024-12-10,Organic Search,Delhi,Tier 1,Solo
+f6349774-4e0b-448a-89e2-20f9b120fa78,2024-04-04,Referral,Kolkata,Tier 1,Solo
+257ccee0-32e1-45f1-85be-e132c1dd930c,2024-04-09,Organic Search,Pune,Tier 2,Solo
+23c8d4ae-59fc-480b-ad2e-3cb4a7f3afe1,2024-12-18,Organic Search,Lucknow,Tier 2,11-50
+2f2d0bf3-fa01-4aee-98fd-800547d33fcd,2024-09-27,Organic Search,Mumbai,Tier 1,2-10
+906e803d-27a9-4e2d-afb0-4064030eaafb,2025-04-15,Organic Search,Jaipur,Tier 2,2-10
+763b70ba-90e7-4ed4-939f-7e4a70b3c2a8,2024-05-07,Paid Social,Kolkata,Tier 1,Solo
+3c03800a-d73e-46c3-9faa-72d997086c28,2024-03-21,Campus/Partnership,Jaipur,Tier 2,2-10
+d8bd9b9c-d0fb-42cb-80f5-011a6dafa622,2024-10-27,App Store,lucknow,Tier 2,11-50
+03eba6c7-484e-43a6-8414-93a7a655b86e,2025-01-05,Paid Social,Lucknow,Tier 2,11-50
+111ff603-5237-4779-9686-1376a319b02b,2024-07-15,Organic Search,delhi,Tier 1,Solo
+1360c526-4d57-4f43-9957-759425fb0072,2024-02-16,Organic Search,Hyderabad,Tier 1,Solo
+1ec165f9-c5c6-4e93-9be4-203f0609367f,2024-10-23,Organic Search,Delhi,Tier 1,Solo
+d51cfba3-4a41-4cbe-bc76-903efbf6c1e3,2024-08-26,App Store,Delhi,Tier 1,Solo
+55f44503-8ae6-4700-9924-3d694702a69e,2025-01-24,Organic Search,Chennai,Tier 1,2-10
+25f9ed9f-a2b5-4c55-9aa0-bd84e4878809,2025-04-09,Organic Search,Pune,Tier 2,2-10
+cb521f46-8822-4ee3-9937-fa3c3c8c3927,2024-06-15,Organic Search,Pune,Tier 2,11-50
+45d94912-aa49-4442-9baa-55e451f70cc6,2024-12-29,Referral,HYDERABAD,Tier 1,Solo
+e703b02b-796b-45bb-b303-a6461252e2d8,2025-11-17,Organic Search,Chennai,Tier 1,2-10
+f5492d4d-5215-44f9-a34b-f573e7ec8d1f,2025-11-30,Referral,Delhi,Tier 1,2-10
+232dfd72-3e79-4265-89a8-e019362a71f7,2025-09-15,Referral,Bengaluru,Tier 1,Solo
+53afcb34-32ba-49ee-b740-53edb64d9051,2025-06-30,Organic Search,Hyderabad,Tier 1,Solo
+e34be5ef-b84e-4558-ac1b-9681a22849f3,2024-06-16,App Store,Ahmedabad,Tier 2,2-10
+fb2a44c5-74fd-4f7c-a9cb-eaa756288c27,2025-01-23,Organic Search,Chennai,Tier 1,Solo
+d139e8e0-c7de-4d28-99d5-1b29c9adfdbc,2025-10-17,Organic Search,Jaipur,Tier 2,Solo
+62fa6c8c-26b0-4cc2-adaf-fbc913df7aeb,2024-08-12,Referral,Pune,Tier 2,2-10
+ab636cb5-93d8-4a82-bbdb-b76d0a36c58a,2024-02-27,App Store,Hyderabad,Tier 1,Solo
+c628e038-bc53-4f94-aa89-1e1d3e37805b,2024-02-02,Organic Search,Pune,Tier 2,2-10
+de80489b-870f-4b33-8c79-35ba5f330ce8,2025-02-14,Referral,Chennai,Tier 1,2-10
+1655f125-1819-47d0-bc18-361af7cc2fee,2024-03-08,Referral,Hyderabad,Tier 1,Solo
+7e9130a8-f57c-427e-b5e8-2c3f036d5e7b,2025-08-03,Paid Social,Pune,Tier 2,Solo
+841b8e18-67f8-4b5d-a3a3-2f68c12cb79f,2024-08-05,Organic Search,Ahmedabad,Tier 2,Solo
+0d559d09-9bb5-4276-b4a8-e1018993425d,2025-02-09,Organic Search,Ahmedabad,Tier 2,2-10
+f6432228-4262-4f6a-b5d7-b4fc0be4fc03,2024-05-26,Organic Search,CHENNAI,Tier 1,2-10
+7770f4d2-3453-49f2-bb10-24a8f45f9251,2024-05-22,App Store,Hyderabad,Tier 1,Solo
+967195af-2968-40b5-bf4c-3266f65ed165,2025-07-28,Paid Social,Jaipur,Tier 2,2-10
+3fbef2b4-cb80-4909-8ddc-48d92b96c129,2024-09-26,Organic Search,LUCKNOW,Tier 2,Solo
+f26250f5-5c73-407f-8845-fedc43da6183,2025-03-14,Organic Search,LUCKNOW,Tier 2,Solo
+cecf2144-c2ea-4775-8517-c77898316b4d,2025-02-12,App Store,Pune,Tier 2,2-10
+a3db7ff3-984c-49cd-b34b-e2d3ab4d8b3a,2024-08-12,Paid Social,bengaluru,Tier 1,11-50
+d1bf9489-4fc5-4ba2-a562-65012e2b18cf,2025-06-05,App Store,Ahmedabad,Tier 2,Solo
+61a80c26-942f-4d81-b75f-e6dbf4fb8ecc,2024-04-03,App Store,Mumbai,Tier 1,2-10
+6d1b3a1d-da51-4ca7-95e1-77a0577f5674,2024-04-22,App Store,bengaluru,Tier 1,11-50
+5e454f25-9906-430b-a2f6-66dfb9769dee,2025-10-04,Organic Search,Bengaluru,Tier 1,Solo
+6fa9e978-f2f3-4daf-aeec-7e5fb97d7462,2025-11-27,Organic Search,KOLKATA,Tier 1,Solo
+8e0fd07d-569b-4404-97eb-ca650ec4ada6,2025-09-02,App Store,DELHI,Tier 1,11-50
+49f67137-93d6-474f-b8bd-1a02b30c7fa6,2025-01-29,Organic Search,KOLKATA,Tier 1,2-10
+74b8c24a-9e9a-4eb4-8e65-d993f45880f0,2025-09-02,Paid Social,Ahmedabad,Tier 2,Solo
+27aad1c0-b602-4777-ae27-762167984be6,2025-06-25,Organic Search,Chennai,Tier 1,Solo
+9f9a371c-b1c2-4972-9cf2-0a6edcb1126b,2025-07-20,App Store,mumbai,Tier 1,Solo
+c7bfc040-315d-4f3c-9e73-ed21e5514cd0,2025-11-27,Paid Social,Delhi,Tier 1,2-10
+178aeda4-7091-4383-bc09-36999933a8a3,2025-11-29,Organic Search,Jaipur,Tier 2,11-50
+eaa73236-ba85-4366-bf48-fe1cba972110,2024-09-30,Campus/Partnership,Pune,Tier 2,Solo
+91c481c7-edf4-409c-a946-f62390918860,2024-04-24,Paid Social,Chennai,Tier 1,Solo
+c3854b23-f106-4968-a163-10b4822b039b,2025-03-21,Organic Search,Bengaluru,Tier 1,Solo
+5b6ecf9a-1e7e-4395-8036-b5fdab767b81,2025-04-09,Paid Social,Mumbai,Tier 1,2-10
+9427b160-2874-423e-aa52-a34e68d328e1,2024-09-26,Organic Search,Jaipur,Tier 2,Solo
+6f535876-e54e-46a4-93a9-de3796d6aad5,2024-07-01,App Store,Jaipur,Tier 2,Solo
+e320fec2-7f41-4eb3-b055-c5227acfd045,2024-04-18,Organic Search,Chennai,Tier 1,Solo
+3ce34e6d-ff0d-4de7-9a25-c0c83bccb2b7,2025-10-16,Campus/Partnership,Jaipur,Tier 2,Solo
+115553fd-7c35-4545-b84e-772c68a5f065,2025-09-15,Referral,Hyderabad,Tier 1,2-10
+5468b880-7a3f-4571-9b74-7a854bc7ba36,2024-06-05,Organic Search,Pune,Tier 2,2-10
+bf9eb527-cc70-4c56-85dc-2c36e47070e8,2024-06-14,Organic Search,Jaipur,Tier 2,2-10
+2e30b712-00a5-4ba7-aae1-5f11cd4899e5,2025-06-27,Paid Social,Mumbai,Tier 1,2-10
+796738ea-dbfb-40d5-9038-712ba2160dd7,2025-09-05,Organic Search,Pune,Tier 2,2-10
+0430a5fe-b07e-489d-9469-504341eebef3,2025-05-15,Organic Search,Mumbai,Tier 1,Solo
+53690441-f6ca-461b-bfb8-708a9b312749,2024-04-24,Organic Search,pune,Tier 2,2-10
+453ef890-bd63-4059-893a-361b22cf3020,2024-11-10,Referral,Hyderabad,Tier 1,Solo
+88f46cbf-c1fb-44da-b9da-eb4788679288,2024-02-29,Paid Social,HYDERABAD,Tier 1,Solo
+88a3ba62-c71a-49c2-94e4-248f81ea92d5,2025-08-03,Paid Social,Delhi,Tier 1,Solo
+b63e6ffd-565f-4b09-a0e1-d3bfa5db461d,2024-03-28,Referral,Ahmedabad,Tier 2,Solo
+0f36c653-f963-422d-ab4d-1a1f83233de1,2024-03-11,App Store,Jaipur,Tier 2,Solo
+994ee03d-8103-4992-b570-9d2070d7d277,2024-05-08,Organic Search,Bengaluru,Tier 1,Solo
+7dfa5d30-f6d2-4eee-bd10-d6ff6b6ffa11,2025-11-06,App Store,Ahmedabad,Tier 2,11-50
+8afbf2e1-23bc-4754-a57e-294560de0a60,2025-07-16,Organic Search,Bengaluru,Tier 1,2-10
+9204dcbb-e9fd-47a7-9bbb-ebf42706a92c,2024-09-28,App Store,Jaipur,Tier 2,2-10
+b39a85cf-a6a6-4fb4-a815-3c1432be59f6,2025-09-13,Paid Social,Kolkata,Tier 1,Solo
+aa6f9744-3003-4979-9361-6515a375882d,2024-08-04,Organic Search,Jaipur,Tier 2,11-50
+ad70ad64-ab56-47fb-a22d-7f869dc9b73c,2024-07-24,,Chennai,Tier 1,2-10
+de304c3a-0fac-46da-bfaa-0e87b22d0c05,2025-02-12,Organic Search,Pune,Tier 2,Solo
+aa69162b-9e00-4aa9-aaa8-3a8006fb4213,2025-03-24,Referral,Jaipur,Tier 2,11-50
+d2ebcd6b-a07a-4998-9c43-3028ba489d36,2025-04-07,App Store,Delhi,Tier 1,2-10

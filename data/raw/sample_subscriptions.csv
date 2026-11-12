@@ -1,0 +1,101 @@
+subscription_id,customer_id,plan,billing_cycle,mrr,start_date,end_date,status,cancel_reason
+8fa66160-6c7f-46aa-b0ec-f32f2bf6675b,09e7e1f3-6aad-41a5-8001-c7229bff167f,Growth,Annual,1244.17,2025-10-16,,Active,
+80a101b6-6d97-447d-b0ab-7a33cab5c9e3,74556e39-4bfa-4530-aa31-d25437913a59,Starter,Monthly,499.0,2024-01-26,2024-08-20,Canceled,Not using enough
+622a694d-3b81-4f34-8aac-0021b931be8f,957658ac-6f9d-488b-a4cc-c68385ba9835,Starter,Monthly,499.0,2024-09-07,,Active,
+3bbc793a-5c08-4a87-bd66-bb144473c103,8fdf3b37-06bf-428c-a66c-888a87da535d,Growth,Monthly,1499.0,2024-05-22,2025-05-06,Canceled,Switched to competitor
+73f1066e-6ed8-4ea3-8bcd-0927be2b8079,35a8a223-e08c-4a93-a436-7c4914adeb36,Starter,Annual,414.17,2025-11-23,,Active,
+51230b09-205f-48f1-8064-d1f9810afc3c,0b0b1245-12a5-4d0f-b71a-0040b85d1f27,Growth,Monthly,1499.0,2024-03-30,2024-06-10,Canceled,Too expensive
+30fa4c0c-c651-4810-bae0-8ed2e2ae97b8,cee19096-a533-4567-9730-f5185ab60720,Starter,Monthly,499.0,2025-03-08,2025-09-22,Past_Due,
+08fe5d45-aca6-42f6-b712-bff80f686f1a,1b2fd07e-5c4c-44c0-a130-3eca8f1eff17,Growth,Monthly,1499.0,2024-01-31,2024-12-06,Canceled,Too expensive
+8d785382-0efc-45fb-89f2-a261fc997c35,34533369-5ef0-4e7b-a9fa-2cf0114e000f,Starter,Annual,414.17,2024-08-11,2025-12-21,Canceled,Too expensive
+10e4762a-15e7-455d-a5dc-0805682c7c74,dc238584-aecf-4a3b-a3e9-a5a83e36df76,Starter,Monthly,499.0,2025-06-01,2025-07-06,Canceled,Too expensive
+2d5e414f-2a94-47e0-883b-ec877fdad5e3,590a13e0-c32a-4551-922c-d2fd2c38ff69,Starter,Monthly,499.0,2024-01-28,2024-05-12,Past_Due,
+6c0371f6-86d0-46ea-885f-8c2602c79774,3d5704e6-401c-45e9-9b29-a4e5e5dd29e2,Starter,Monthly,499.0,2024-07-22,,Active,
+acf4028e-3e52-40e4-b136-db7ba52cf4a2,454b3f1e-5ddd-45f8-a545-41eda7bb1a92,Starter,Monthly,499.0,2025-03-05,2025-07-19,Past_Due,
+01dd53fa-9db6-41f5-98ac-19576fb3fe92,cc4d9b58-167c-47ae-b128-da0b0883e8bc,Scale,Monthly,3999.0,2025-04-04,2025-06-24,Canceled,Missing features
+ced95f1a-6380-429b-a590-634622fc9e1e,d37a709d-ce88-4e00-b230-6cb399a5c02f,Starter,Monthly,499.0,2024-10-11,2025-03-15,Canceled,Too expensive
+dfe37418-1451-4e8d-8af9-edbca003d476,fe8e0c9f-5999-4f4d-b15b-f1978a82f8b6,Starter,Monthly,499.0,2024-06-12,,Active,
+a3a3ede3-ca3e-41f6-8d9c-17e7707f629e,560bdb30-8fc4-4397-87cb-f4b5021fc810,Starter,Monthly,499.0,2024-12-14,2025-04-09,Canceled,Too expensive
+d302a583-fae6-46be-a641-deafc5b108e9,cf60dea2-3402-4d7e-a522-5d3e62737e84,Growth,Monthly,1499.0,2024-06-08,2024-07-22,Past_Due,
+13757000-84a4-41d9-95f9-102ca2ac9e3b,418bf787-a408-41c3-acea-491ef3c29f86,Growth,Annual,1244.17,2024-12-10,2025-06-19,Canceled,Not using enough
+128b2ebf-f38d-4cbe-b8a6-712bc56ae39f,f6349774-4e0b-448a-89e2-20f9b120fa78,Starter,Annual,414.17,2024-04-04,2025-01-21,Canceled,Switched to competitor
+82c12569-77ad-49ae-8d17-933524c82eeb,257ccee0-32e1-45f1-85be-e132c1dd930c,Starter,Monthly,499.0,2024-04-09,2024-07-04,Canceled,Missing features
+b064ef55-cdbf-4b73-a6bd-b36695673478,23c8d4ae-59fc-480b-ad2e-3cb4a7f3afe1,Scale,Monthly,3999.0,2024-12-18,2025-07-13,Canceled,Too expensive
+7bebfb3a-848c-4859-81be-3a85e82dcf51,2f2d0bf3-fa01-4aee-98fd-800547d33fcd,Starter,Monthly,499.0,2024-09-27,,Active,
+fd17ae2f-40df-4cb3-bf62-f5074730e4c2,906e803d-27a9-4e2d-afb0-4064030eaafb,Starter,Annual,414.17,2025-04-15,,Active,
+d52a46de-0c39-49ee-9fc8-1af36066a665,763b70ba-90e7-4ed4-939f-7e4a70b3c2a8,Starter,Annual,414.17,2024-05-07,2025-03-17,Canceled,Not using enough
+532df894-cfce-4341-ac14-bb233e69a34a,3c03800a-d73e-46c3-9faa-72d997086c28,Starter,Monthly,499.0,2024-03-21,2024-04-10,Canceled,Missing features
+6100c1a5-783b-4c62-991e-c606d675f392,d8bd9b9c-d0fb-42cb-80f5-011a6dafa622,Starter,Monthly,499.0,2024-10-27,2024-11-17,Canceled,Not using enough
+92b9efe4-be5e-444f-9c1e-864a54f9092b,03eba6c7-484e-43a6-8414-93a7a655b86e,Starter,Monthly,499.0,2025-01-05,,Active,
+a764ae37-2fc6-4a20-8a01-f9f1e42110f0,111ff603-5237-4779-9686-1376a319b02b,Growth,Monthly,1499.0,2024-07-15,,Active,
+d683a0f9-9b53-4def-bc6a-fcf8966d8970,1360c526-4d57-4f43-9957-759425fb0072,Growth,Annual,1244.17,2024-02-16,,Active,
+02bb20d6-a969-4c13-80b6-e9cce6feaef0,1ec165f9-c5c6-4e93-9be4-203f0609367f,Starter,Annual,414.17,2024-10-23,,Active,
+b4a7cbd8-6084-4626-8cf6-b9f1769e5207,d51cfba3-4a41-4cbe-bc76-903efbf6c1e3,Growth,Monthly,1499.0,2024-08-26,,Active,
+f31b3d71-d5ff-4283-a45e-365c6a1d7b5d,55f44503-8ae6-4700-9924-3d694702a69e,Growth,Monthly,1499.0,2025-01-24,2025-01-26,Canceled,Too expensive
+548ece91-4621-45b1-84fd-7e590dd971ea,25f9ed9f-a2b5-4c55-9aa0-bd84e4878809,Starter,Annual,414.17,2025-04-09,2025-08-26,Canceled,Too expensive
+c2aad433-df86-45f8-92a6-133123cd97a9,cb521f46-8822-4ee3-9937-fa3c3c8c3927,Starter,Monthly,499.0,2024-06-15,2024-09-29,Past_Due,
+425d2ae9-3ee8-40b3-997d-b74032d3853b,45d94912-aa49-4442-9baa-55e451f70cc6,Starter,Monthly,499.0,2024-12-29,2025-12-12,Past_Due,
+c0632334-4bf5-4212-af4d-71ad32ea8030,e703b02b-796b-45bb-b303-a6461252e2d8,Starter,Monthly,499.0,2025-11-17,,Active,
+5fa66f9d-2844-4a49-ba5b-e0994198741a,f5492d4d-5215-44f9-a34b-f573e7ec8d1f,Starter,Monthly,499.0,2025-11-30,,Active,
+e8776e3c-30cc-4761-9a58-f9f02fd3123c,232dfd72-3e79-4265-89a8-e019362a71f7,Starter,Monthly,499.0,2025-09-15,,Active,
+ae5fe79a-92c8-479c-aced-29ff60895541,53afcb34-32ba-49ee-b740-53edb64d9051,Scale,Monthly,3999.0,2025-06-30,,Active,
+88db208a-6764-4234-8f56-fef7af8b85d8,e34be5ef-b84e-4558-ac1b-9681a22849f3,Starter,Monthly,499.0,2024-06-16,2024-06-26,Canceled,Not using enough
+cef98207-0f35-4857-8a34-be6b4e21986d,fb2a44c5-74fd-4f7c-a9cb-eaa756288c27,Starter,Annual,414.17,2025-01-23,,Active,
+3f46a27a-8dd8-425d-b37b-7c0d2b494dd2,d139e8e0-c7de-4d28-99d5-1b29c9adfdbc,Growth,Monthly,1499.0,2025-10-17,2025-11-14,Canceled,Too expensive
+67d7065f-1815-4538-be2f-3d038f0dbd08,62fa6c8c-26b0-4cc2-adaf-fbc913df7aeb,Growth,Monthly,1499.0,2024-08-12,2025-02-19,Canceled,Missing features
+e196e8e4-b602-46ee-8961-0d070805f885,ab636cb5-93d8-4a82-bbdb-b76d0a36c58a,Starter,Monthly,499.0,2024-02-27,2024-11-29,Canceled,Missing features
+429abe54-ea34-4f06-918f-c157559087dd,c628e038-bc53-4f94-aa89-1e1d3e37805b,Starter,Monthly,499.0,2024-02-02,2025-03-16,Past_Due,
+22275249-abca-4bea-b9f1-8538bd8870b7,de80489b-870f-4b33-8c79-35ba5f330ce8,Growth,Monthly,1499.0,2025-02-14,,Active,
+6ba11fc0-49d9-4d8d-a187-957a086b426c,1655f125-1819-47d0-bc18-361af7cc2fee,Growth,Monthly,1499.0,2024-03-08,2025-08-22,Past_Due,
+79db6d0e-0142-4e4b-a946-e3b443683625,7e9130a8-f57c-427e-b5e8-2c3f036d5e7b,Starter,Monthly,499.0,2025-08-03,,Active,
+541b5832-4984-4a91-91e2-bf638596e6c1,841b8e18-67f8-4b5d-a3a3-2f68c12cb79f,Starter,Monthly,499.0,2024-08-05,2025-09-16,Canceled,Too expensive
+7b9c2f0d-c1b5-4b86-b6b3-150693411b55,0d559d09-9bb5-4276-b4a8-e1018993425d,Growth,Annual,1244.17,2025-02-09,2025-11-04,Canceled,Not using enough
+a64562f0-3cf8-43c8-ba85-a2a0f057b6cb,f6432228-4262-4f6a-b5d7-b4fc0be4fc03,Starter,Monthly,499.0,2024-05-26,2024-07-01,Canceled,Too expensive
+d3f8be06-900a-4b89-90c1-866e789fc974,7770f4d2-3453-49f2-bb10-24a8f45f9251,Starter,Monthly,499.0,2024-05-22,2024-07-18,Canceled,Switched to competitor
+b7b2fd23-d105-43e5-8dbc-a78d5465ed54,967195af-2968-40b5-bf4c-3266f65ed165,Scale,Annual,3319.17,2025-07-28,2025-10-18,Canceled,Missing features
+9125bb11-2497-4909-9801-845d4a6c4fba,3fbef2b4-cb80-4909-8ddc-48d92b96c129,Growth,Monthly,1499.0,2024-09-26,2025-01-27,Canceled,Not using enough
+1ccbb356-33f9-4007-8cec-cd499feff072,f26250f5-5c73-407f-8845-fedc43da6183,Scale,Monthly,3999.0,2025-03-14,2025-06-03,Canceled,Too expensive
+03579cdd-27e9-440e-b35c-288270e6f817,cecf2144-c2ea-4775-8517-c77898316b4d,Starter,Monthly,499.0,2025-02-12,,Active,
+20d1a894-0f27-4fd0-880d-fea14d773814,a3db7ff3-984c-49cd-b34b-e2d3ab4d8b3a,Growth,Annual,1244.17,2024-08-12,,Active,
+eacc6355-d5be-4c01-964e-3bac68dbba76,d1bf9489-4fc5-4ba2-a562-65012e2b18cf,Starter,Monthly,499.0,2025-06-05,2025-11-01,Canceled,Missing features
+1c75e62f-e1fc-485a-8c39-9aef2f2d94c0,61a80c26-942f-4d81-b75f-e6dbf4fb8ecc,Starter,Monthly,499.0,2024-04-03,2024-10-07,Canceled,Missing features
+88771d89-6023-4584-8f94-d44eefbb6892,6d1b3a1d-da51-4ca7-95e1-77a0577f5674,Growth,Monthly,1499.0,2024-04-22,,Active,
+e4355e53-9fc1-48bb-95d6-6eaddd87fff3,5e454f25-9906-430b-a2f6-66dfb9769dee,Starter,Annual,414.17,2025-10-04,,Active,
+a507a8ba-1703-41d3-963a-7ef5b61af8d4,6fa9e978-f2f3-4daf-aeec-7e5fb97d7462,Starter,Monthly,499.0,2025-11-27,,Active,
+d5d779fe-9dc8-4f00-bbd6-7a1ad0cbf306,8e0fd07d-569b-4404-97eb-ca650ec4ada6,Starter,Monthly,499.0,2025-09-02,,Active,
+9c97e587-40c3-40bf-bd34-0eb928621477,49f67137-93d6-474f-b8bd-1a02b30c7fa6,Scale,Annual,3319.17,2025-01-29,2025-02-24,Canceled,Too expensive
+e6f071af-9558-41d7-8901-8aaa24e24af9,74b8c24a-9e9a-4eb4-8e65-d993f45880f0,Starter,Monthly,499.0,2025-09-02,,Active,
+70ef4092-9fa4-484b-9ea6-c157c5ad970e,27aad1c0-b602-4777-ae27-762167984be6,Starter,Monthly,499.0,2025-06-25,,Active,
+e562c14c-c3f5-4eac-98f4-d99f2bd43ce1,9f9a371c-b1c2-4972-9cf2-0a6edcb1126b,Starter,Monthly,499.0,2025-07-20,2025-12-05,Canceled,Too expensive
+60a465d0-0a90-4e6d-a26f-098c3a644641,c7bfc040-315d-4f3c-9e73-ed21e5514cd0,Starter,Monthly,499.0,2025-11-27,,Active,
+06c078ee-e8bf-4534-8fdd-f16a0bf8e0a6,178aeda4-7091-4383-bc09-36999933a8a3,Growth,Monthly,1499.0,2025-11-29,,Active,
+822bc54c-2d53-422e-93b8-93f045bc1478,eaa73236-ba85-4366-bf48-fe1cba972110,Growth,Monthly,1499.0,2024-09-30,,Active,
+f689835f-53fd-4390-b0e3-a3484ee5cb23,91c481c7-edf4-409c-a946-f62390918860,Growth,Monthly,1499.0,2024-04-24,2024-10-11,Canceled,Not using enough
+01374a71-0d8f-4c4b-8cbc-c27bfd4fcf8d,c3854b23-f106-4968-a163-10b4822b039b,Growth,Monthly,1499.0,2025-03-21,,Active,
+3b0ee749-aed7-403d-9dcf-db555de79a8e,5b6ecf9a-1e7e-4395-8036-b5fdab767b81,Starter,Annual,414.17,2025-04-09,,Active,
+1441d271-bdf3-45b1-aa82-240adc98999c,9427b160-2874-423e-aa52-a34e68d328e1,Starter,Monthly,499.0,2024-09-26,2025-01-11,Canceled,Not using enough
+6af72eca-044e-4348-a0e8-4bc3504c7a30,6f535876-e54e-46a4-93a9-de3796d6aad5,Growth,Monthly,1499.0,2024-07-01,,Active,
+e45ecb76-069d-44bc-af92-fdce83138d35,e320fec2-7f41-4eb3-b055-c5227acfd045,Starter,Monthly,499.0,2024-04-18,2024-10-08,Canceled,Missing features
+6df0431c-0931-4fca-99ec-f4f7d6b84621,3ce34e6d-ff0d-4de7-9a25-c0c83bccb2b7,Starter,Monthly,499.0,2025-10-16,,Active,
+0b2760d3-5319-411e-8ba0-5883cd67d905,115553fd-7c35-4545-b84e-772c68a5f065,Starter,Monthly,499.0,2025-09-15,,Active,
+dbd8c011-178d-4d45-8c17-14cea80a8b7a,5468b880-7a3f-4571-9b74-7a854bc7ba36,Starter,Annual,414.17,2024-06-05,2025-03-17,Canceled,Not using enough
+5fea32d9-af33-4a49-af2c-b4ad7b54651f,bf9eb527-cc70-4c56-85dc-2c36e47070e8,Scale,Monthly,3999.0,2024-06-14,,Active,
+7d5299dd-6668-460f-b1f5-99e5f7498a6e,2e30b712-00a5-4ba7-aae1-5f11cd4899e5,Starter,Annual,414.17,2025-06-27,2025-09-06,Canceled,Switched to competitor
+61483513-9854-487c-b414-518f1b9cb35e,796738ea-dbfb-40d5-9038-712ba2160dd7,Growth,Monthly,1499.0,2025-09-05,2025-12-19,Past_Due,
+04d9fac3-842b-43b2-a89d-11aa87832593,0430a5fe-b07e-489d-9469-504341eebef3,Starter,Annual,414.17,2025-05-15,2025-06-07,Canceled,Switched to competitor
+ba57cb19-b104-4b42-8db5-adb73b8f3b9e,53690441-f6ca-461b-bfb8-708a9b312749,Growth,Annual,1244.17,2024-04-24,,Active,
+d861e5c7-3de7-4ade-8d9f-5eb517fd3d9c,453ef890-bd63-4059-893a-361b22cf3020,Growth,Monthly,1499.0,2024-11-10,,Active,
+812e5305-7669-4a9c-b52a-8e1f4366d281,88f46cbf-c1fb-44da-b9da-eb4788679288,Growth,Monthly,1499.0,2024-02-29,2025-08-11,Past_Due,
+c1490f7b-bd5e-4b29-aace-66a4bac1d1e7,88a3ba62-c71a-49c2-94e4-248f81ea92d5,Starter,Monthly,499.0,2025-08-03,2025-10-23,Canceled,Not using enough
+4e99ceeb-e37f-4112-91c7-96b31164f6a4,b63e6ffd-565f-4b09-a0e1-d3bfa5db461d,Scale,Annual,3319.17,2024-03-28,2025-08-19,Canceled,Too expensive
+db83a568-aeae-4a44-b2d6-fdcbf551d6cb,0f36c653-f963-422d-ab4d-1a1f83233de1,Starter,Monthly,499.0,2024-03-11,2025-02-04,Canceled,Switched to competitor
+d4ba57d4-585e-4060-b901-c7b0e99252f7,994ee03d-8103-4992-b570-9d2070d7d277,Starter,Monthly,499.0,2024-05-08,2024-05-22,Past_Due,
+fe4aaf56-b730-49f3-a913-8d778c99f12f,7dfa5d30-f6d2-4eee-bd10-d6ff6b6ffa11,Starter,Monthly,499.0,2025-11-06,,Active,
+33fba4a0-fa9a-4ac8-a784-75e05aaa1f9a,8afbf2e1-23bc-4754-a57e-294560de0a60,Scale,Annual,3319.17,2025-07-16,,Active,
+10ec4ce9-a7f8-4f78-8d05-a738aa7d4dfc,9204dcbb-e9fd-47a7-9bbb-ebf42706a92c,Starter,Monthly,499.0,2024-09-28,2025-04-10,Canceled,Not using enough
+2fe956e8-0ca9-472f-b06f-f55f1d481d82,b39a85cf-a6a6-4fb4-a815-3c1432be59f6,Growth,Monthly,1499.0,2025-09-13,,Active,
+7bbb6437-dc2b-4881-a02b-207e2c522051,aa6f9744-3003-4979-9361-6515a375882d,Growth,Monthly,1499.0,2024-08-04,2025-04-09,Canceled,Too expensive
+0949c1b9-831d-42c1-92ed-f6b1ff3f075e,ad70ad64-ab56-47fb-a22d-7f869dc9b73c,Starter,Annual,414.17,2024-07-24,2025-08-07,Past_Due,
+0e2c993c-a5e0-4aba-9a3e-b038186bcc06,de304c3a-0fac-46da-bfaa-0e87b22d0c05,Starter,Annual,414.17,2025-02-12,,Active,
+9caf7d59-380f-4e92-83ec-f8ff5c41a3e8,aa69162b-9e00-4aa9-aaa8-3a8006fb4213,Growth,Annual,1244.17,2025-03-24,2025-04-07,Past_Due,
+73515a29-d843-46ee-ae22-4324ba66dc52,d2ebcd6b-a07a-4998-9c43-3028ba489d36,Starter,Monthly,499.0,2025-04-07,2025-09-10,Canceled,Too expensive
