@@ -10,12 +10,12 @@
 
 *A complete business analysis portfolio project — SQL · Python · Power BI · Churn Playbook*
 
-**Built by:** [Student Name] | Final-Year B.Tech Computer Science  
+**Built by:** Shiksha Sondik | Final-Year B.Tech Computer Science  
 **Target roles:** Data Analyst · Business Analyst  
 **Status:** ✅ Complete — Stages 1–8 Fully Implemented  
 
 ---
-
+**LIVE AT** https://shiksha2303.github.io/customer-churn-intelligence/
 ## Key Findings
 
 All findings trace directly to [`outputs/findings_register.csv`](outputs/findings_register.csv) and empirical SQL/Python pipeline outputs:
